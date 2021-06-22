@@ -1,0 +1,16 @@
+<h1>Front end UI!</h1>
+
+Dog breeds:
+<div *ngFor="let breed of data.Breeds" class="row">
+
+  Name: {{breed.Name}}, image: {{breed.Image}}
+
+</div>
+
+
+Add new Breed
+
+<input type="text" [(ngModel)]="input.Name"/>
+Input name {{input.Name}}
+
+<button type="button" (click)="submit()">submit</button>

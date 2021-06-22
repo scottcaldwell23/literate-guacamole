@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-vetspire technical project",
+      "appliesTo": "vetspire technical project/",
+      "type": "launch"
+    }
+  ]
+}

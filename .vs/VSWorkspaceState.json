@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\UI\\ClientApp",
+    "\\UI\\ClientApp\\src",
+    "\\UI\\ClientApp\\src\\app",
+    "\\UI\\ClientApp\\src\\app\\home",
+    "\\vetspire services",
+    "\\vetspire services\\bin",
+    "\\vetspire services\\images",
+    "\\vetspire services\\obj",
+    "\\vetspire services\\obj\\Debug"
+  ],
+  "SelectedNode": "\\vetspire services\\obj\\Debug",
+  "PreviewInSolutionExplorer": false
+}
